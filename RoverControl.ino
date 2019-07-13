@@ -3,7 +3,7 @@
 #include <SoftwareSerial.h>
 
 #define wifiID "pritomn7"
-#define wifiPass "7232621918"
+#define wifiPass "temppassword1"
 #define IP "192.168.0.100"
 #define TRIG_PIN A4 
 #define ECHO_PIN A5 
